@@ -6,6 +6,12 @@
 ############################################################
 
 ####################################################################
+#### Configuracao Workspace                                     ####
+#### Importar como projeto Maven                                ####
+#### Executar o maven build para baixar as dependencias         ####
+####################################################################
+
+####################################################################
 #### Execucao da aplicacao:                                     ####
 #### Executar o metodo main da classe BootApplication.java      ####
 #### O servidor do Spring de startar e subir a aplicacao        ####
